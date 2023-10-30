@@ -1,0 +1,3 @@
+# Ignore Replit specific files and folders
+.replit/
+.replitignore
