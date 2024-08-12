@@ -5,13 +5,6 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 <!-- - 🎓 &nbsp; Estudando **de tudo**. -->
 - 💼 &nbsp; Trabalhando como **Desenvolvedor Full-Stack Freelancer**.
-- 🌱 &nbsp; Aprendendo mais sobre:
-  - &nbsp; **Estrutura de Dados**;
-  - &nbsp; **UI\UX**;
-  - &nbsp; **Administração e Gerenciamento de Projetos**;
-  - &nbsp; **SEO e Otimização de Aplicações Web**;
-  - &nbsp; **Analise de Dados**
-  - &nbsp; **CyberSecurity**
 
 ## HardSkills
 
@@ -33,7 +26,7 @@
 ![Figma](https://img.shields.io/static/v1?label=Figma&message=%20&style=flat&logo=Figma)
 ![IntelliJ](https://img.shields.io/static/v1?label=IntelliJ&message=%20&style=flat&logo=IntelliJIDEA)
 
------------------
+---
 
 [![Profile Stats](https://github-readme-stats.vercel.app/api?username=frotas&theme=dracula&show_icons=true)](https://github.com/Frotas)
 
