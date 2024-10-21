@@ -2,9 +2,15 @@
 
 ## Sobre mim
 
-Sou o Guilherme e possuo **formação Técnica em Desenvolvimento de Sistemas** pelo Centro Paula Souza e participei de um bootcamp focado em **Desenvolvimento Full-Stack** pela ONG ReCode. Atualmente, estou em busca da minha primeira oprtunidade.
+👾 **Minha jornada na tecnologia começou nos jogos**, criando macros para jogos online, o que despertou meu interesse por programação. Ao longo do tempo, me aprofundei nos conceitos fundamentais de TI e concluí o curso técnico em Desenvolvimento de Sistemas.
 
-### Languages & Frameworks
+🌱 **Experiência em projetos sociais**: Participei dos projetos [**Recreio**](https://www.github.com/squad-61) e [**Ramifica**](https://recodepro2022.paniclobster.com/equipe/3) pela ReCode, onde pude ver o impacto positivo da tecnologia na vida das pessoas e sua capacidade de promover inclusão.
+
+💻 Atualmente, estou focado em **Desenvolvimento Web** e busco colaborar em projetos **Open Source**. Estou sempre aprendendo e enfrentando novos desafios para expandir minhas habilidades e contribuir para a comunidade de desenvolvimento.
+
+⚡ Vamos criar algo incrível juntos!
+
+### Linguagens & Frameworks
 
 [![JavaScript](https://img.shields.io/static/v1?label=JavaScript&message=%20&style=flat&logo=JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/static/v1?label=TypeScript&message=%20&style=flat&logo=TypeScript)](https://typescript.dev/)
@@ -29,4 +35,4 @@ Sou o Guilherme e possuo **formação Técnica em Desenvolvimento de Sistemas** 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/guilherme-af-sales)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-1C2224?style=for-the-badge&logo=Gmail)](mailto:gs.dev.oficial@gmail.com)
-[![Vercel Badge](https://img.shields.io/badge/-Potifolio-1C2224?style=for-the-badge&logo=Vercel)](https://guilherme-sales-dev.vercel.app/)
+[![Vercel Badge](https://img.shields.io/badge/-Portfólio-1C2224?style=for-the-badge&logo=Vercel)](https://gs-dev-oficial.vercel.app/)
